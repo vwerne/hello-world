@@ -1,2 +1,4 @@
 # hello-world
-Just testing
+Hi Humans!
+
+I like Python!
